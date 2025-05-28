@@ -65,6 +65,8 @@ Visual communication skills
 
 Strategic thinking based on real metrics
 
-<img scr = "MatiksAnalisys.ipynb - Colab.pdf ">
+<img src="Matiks Report.pdf">
 
-<img src = "Matiks Report.pdf">
+
+
+
