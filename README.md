@@ -64,3 +64,5 @@ Visual communication skills
 
 
 Strategic thinking based on real metrics
+
+<img = "Matiks Report.pdf">
