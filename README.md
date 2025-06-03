@@ -7,22 +7,22 @@ What I Am Work On
 Build an interactive dashboard
 
 
-Track DAU / WAU / MAU
+Track **DAU / WAU / MAU**
 
 
 Visualize revenue trends over time
 
 
-Provide breakdowns by device type, user segment, or game mode
+Provide breakdowns by device type, **user segment, or game mode**
 
 
 Use any tool you're comfortable with (e.g., Power BI)
 
 Identify and summarize key insights
 
-Behavioral patterns (e.g., active days, usage frequency)
+Behavioral patterns (e.g., **active days, usage frequency**)
 
-Early signs of churn (e.g., time gaps, short session users)
+Early signs of churn (e.g., **time gaps, short session users**)
 
 Characteristics of high-value or high-retention users
 
